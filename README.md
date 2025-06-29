@@ -70,7 +70,7 @@ python gui.py
 
 **👨‍💻 Author**
 
-KOTI SPURTHI
-Computer Science Department
+CHENNURI MANVE
+ELECTRICAL AND ELECTRONICS DEPARTMENT
 
 
